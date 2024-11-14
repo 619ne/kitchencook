@@ -1,0 +1,15 @@
+.eclispe {
+    width:55px; /* Adjust size as needed */
+    height: 52s.73px;
+    background: radial-gradient(circle at 50% 50%, rgba(255, 245, 236, 0.9), #ff8c00), 
+                linear-gradient(to top right, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0));
+                top: 289.2px;
+                left: 918.35px;
+                rotate:-1.15 deg;
+    background-blend-mode: overlay;
+    border-radius: 50%;
+    position: relative;
+    clip-path: polygon(20% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 20%);
+  }
+
+  
